@@ -40,7 +40,7 @@
 
 ##### Referencias
 
- 1.[Que es?](https://unade.edu.mx/para-que-sirve-la-grafica-de-gantt/).
- 2.[Ventajas y desventajas](https://www.obsbusiness.school/blog/que-es-un-diagrama-de-gantt-y-para-que-sirve).
- 3.[Como crear un diagrama](https://www.teamleader.es/blog/diagrama-de-gantt).
- 4.[Ejemplo](https://es.venngage.com/blog/ejemplos-diagramas-gantt-plantillas/#2).
+ 1. [Que es?](https://unade.edu.mx/para-que-sirve-la-grafica-de-gantt/).
+ 2. [Ventajas y desventajas](https://www.obsbusiness.school/blog/que-es-un-diagrama-de-gantt-y-para-que-sirve).
+ 3. [Como crear un diagrama](https://www.teamleader.es/blog/diagrama-de-gantt).
+ 4. [Ejemplo](https://es.venngage.com/blog/ejemplos-diagramas-gantt-plantillas/#2).
